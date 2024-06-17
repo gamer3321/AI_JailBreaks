@@ -1,5 +1,5 @@
-# llama3-jailbrak
-A simple jailbreak for llama3, inspired by BlackTechX
+# AI_JailBreaks
+simple jailbreak's for AI, inspired by BlackTechX
 
 # llama3 JailBreaks
 
