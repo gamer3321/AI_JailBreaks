@@ -1,6 +1,8 @@
 # llama3-jailbrak
 A simple jailbreak for llama3, inspired by BlackTechX
 
+# llama3 JailBreaks
+
 <details>
   <summary>JailBreak for llama3</summary>
 
